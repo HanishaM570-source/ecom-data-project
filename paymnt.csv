@@ -1,0 +1,6 @@
+payment_id,order_id,payment_method,amount_paid
+901,101,credit_card,50.00
+902,102,paypal,50.00
+903,103,credit_card,20.00
+904,104,credit_card,30.00
+905,105,paypal,100.00
